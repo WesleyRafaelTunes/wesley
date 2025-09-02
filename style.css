@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(48, 48, 197);
-    color: rgb(137, 44, 224);
+    background-color: rgb(15, 15, 211);
+    color: rgb(113, 23, 197);
 }
 section{
-    background-color: black;
+    background-color: rgb(204, 35, 35);
 padding-top: 80px;
 padding-bottom: 80px;
 display: flex;
